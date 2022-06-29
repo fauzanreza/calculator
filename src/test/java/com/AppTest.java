@@ -27,14 +27,6 @@ public class AppTest
     {
         return new TestSuite( AppTest.class );
     }
-    public static Test suite()
-    {
-        return new TestSuite( AppTest.class );
-    }
-    public static Test suite()
-    {
-        return new TestSuite( AppTest.class );
-    }
 
     /**
      * Rigourous Test :-)
