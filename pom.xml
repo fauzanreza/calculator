@@ -84,8 +84,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/fauzanreza/calculator</url>
+      <name>GitHub rerechintya Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/rerechintya/calculator</url>
     </repository>
   </distributionManagement>
   <properties>
